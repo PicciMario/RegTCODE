@@ -1,0 +1,80 @@
+[
+	{
+		"id": "IDOC",
+		"text": "IDOC",
+		"secondaryText": "Transazioni IDOC"
+	},
+	{
+		"id": "WE05",
+		"text": "WE05",
+		"secondaryText": "Elenco IDOC in entrata/uscita",
+  		"parent": "IDOC"
+	},
+	{
+		"id": "WE014",
+		"text": "WE14",
+		"secondaryText": "Invia immediatamente IDOC in coda",
+  		"parent": "IDOC"
+	},
+
+
+	{
+		"id": "SYS",
+		"text": "Sistema",
+		"secondaryText": "Transazioni sistema"
+	},
+	{
+		"id": "SM50",
+		"text": "SM50",
+		"secondaryText": "Task manager",
+  		"parent": "SYS"
+	},	
+	{
+		"id": "SM59",
+		"text": "SM59",
+		"secondaryText": "Gestione connessioni esterne",
+  		"parent": "SYS"
+	},	
+	{
+		"id": "AL11",
+		"text": "AL11",
+		"secondaryText": "Cartelle montate sul server SAP",
+  		"parent": "SYS"
+	},		
+	{
+		"id": "SM37",
+		"text": "SM37",
+		"secondaryText": "Log job",
+  		"parent": "SYS"
+	},		
+	{
+		"id": "SPAD",
+		"text": "SPAD",
+		"secondaryText": "Gestione stampanti",
+  		"parent": "SYS"
+	},		
+	{
+		"id": "ST05",
+		"text": "ST05",
+		"secondaryText": "Trace SQL/HTTP/...",
+  		"parent": "SYS"
+	},		
+	{
+		"id": "SHDB",
+		"text": "SHDB",
+		"secondaryText": "Analisi transazioni (nomi tecnici parametri ecc..)",
+  		"parent": "SYS"
+	},		
+	{
+		"id": "CG3Y",
+		"text": "CG3Y",
+		"secondaryText": "Upload file su server SAP",
+  		"parent": "SYS"
+	},		
+	{
+		"id": "CG3Z",
+		"text": "CG3Z",
+		"secondaryText": "Download file da server SAP",
+  		"parent": "SYS"
+	}		
+]
